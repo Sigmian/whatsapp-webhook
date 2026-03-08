@@ -1,5 +1,5 @@
 {
-"name": "whatsapp-webhook",
+"name": "whatsapp-webhook-1",
 "version": "1.0.0",
 "description": "WhatsApp Cloud API webhook",
 "main": "app.js",
@@ -10,3 +10,4 @@
 "express": "^4.19.2"
 }
 }
+
